@@ -60,4 +60,4 @@ I am passionate about **Natural Language Processing (NLP)**, **chatbots**, and *
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ibtissam-bouazzaoui-83976a23b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([[www.linkedin.com/in/ibtissam-bouazzaoui-83976a23b](https://www.linkedin.com/in/ibtissam-bouazzaoui-83976a23b)](https://www.linkedin.com/in/ibtissam-bouazzaoui-83976a23b))
