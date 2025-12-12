@@ -17,15 +17,6 @@ I am passionate about **Natural Language Processing (NLP)**, **chatbots**, and *
 
 ---
 
-### 🤝 I am open to:
-
-- any collaboration work
-- artificial intelligence / machine learning projects
-- apprenticeship opportunities (Alternance IA)
-- research-oriented projects and applied AI solutions
-
----
-
 ### 🛠️ Skills:
 
 #### Languages:
