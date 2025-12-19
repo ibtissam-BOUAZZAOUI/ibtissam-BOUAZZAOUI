@@ -31,19 +31,42 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,swift,html,css,js,php" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" /><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /><br/>Kotlin</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift" /><br/>Swift</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" /><br/>PHP</td>
+  </tr>
+</table>
 
 ### 🤖 AI / Data / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,mongodb,linux" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br/>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" /><br/>Scikit-learn</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" /><br/>OpenCV</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br/>Linux</td>
+  </tr>
+</table>
 
 ### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,jupyter" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" /><br/>Jupyter</td>
+  </tr>
+</table>
 
 ---
 
