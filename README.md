@@ -13,8 +13,7 @@
 🎓 **Master 2 student in Artificial Intelligence Engineering**  
 🏫 **Université Paris 8 – France**  
 
-💡 Passionnée par les **systèmes intelligents**, le **traitement du langage naturel (NLP)**  
-et le développement de **solutions IA innovantes**.
+💡 Passionate about **intelligent systems**, **Natural Language Processing (NLP)**, and **the development of innovative AI solutions**.
 
 ---
 
@@ -44,18 +43,6 @@ et le développement de **solutions IA innovantes**.
 ### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,jupyter" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtissambouazzaoui&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibtissambouazzaoui&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
