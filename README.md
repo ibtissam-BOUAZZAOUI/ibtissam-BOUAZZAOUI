@@ -56,6 +56,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=opencv" /><br/>OpenCV</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br/>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=snowflake" /><br/>Snowflake</td>
   </tr>
 </table>
 
